@@ -1,0 +1,10 @@
+Figura
+- nombre
+- perimetro
+
+Rectangulo es una figura
+- ancho
+- alto
+
+Circulo es una figura
+- radio
