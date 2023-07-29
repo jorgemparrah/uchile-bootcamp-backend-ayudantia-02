@@ -1,3 +1,8 @@
+IFigura
+- nombre
+- perimetro
+- area *************************
+
 Figura
 - nombre
 - perimetro
@@ -8,3 +13,9 @@ Rectangulo es una figura
 
 Circulo es una figura
 - radio
+
+Cuadrado es una figura ************
+Triangulo es una figura ************
+PoligonoRegular es una figura (todos los lados iguales) ************ COMPLEJO
+- cuantos lados tiene
+- cuanto mide el lado
